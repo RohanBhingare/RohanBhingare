@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Bhingare</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" width="400"  src="https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif"/>
+<img align="right" width="400" src="https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif" style="filter: invert(1);"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanbhingare&label=Profile%20views&color=0e75b6&style=flat" alt="rohanbhingare" /> </p>
 
 - 🌱 I’m currently learning **Hibernate, SpringBoot,**

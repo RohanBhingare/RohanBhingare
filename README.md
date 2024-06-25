@@ -5,8 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanbhingare&label=Profile%20views&color=0e75b6&style=flat" alt="rohanbhingare" /> </p>
 
 - 🌱 I’m currently learning **Hibernate, SpringBoot**
-
-- 💬 Ask me about **Web-App Development, Coding, DSA**
+- 💬 Ask me about **Web-App Development, Coding, DSA
 
 - 📫 How to reach me **rohanbhingare300@gmail.com**
 
